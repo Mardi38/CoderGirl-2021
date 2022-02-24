@@ -6,3 +6,5 @@ CoderGirl homework
 #Greg did the advertising dataset. I used the stock prices to run the Feb23 notebook.
 
 #IMDB is just a file from a long time ago.
+
+#Checkpoint 5 is for my final project. I asked Aliya four questions. The related dataset is cleanmath.
