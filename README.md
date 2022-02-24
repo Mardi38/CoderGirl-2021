@@ -1,4 +1,4 @@
-# CoderGirl-2021
+# Linear Regression
 CoderGirl homework
 
 
