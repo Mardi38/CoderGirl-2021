@@ -7,5 +7,5 @@ CoderGirl homework
 
 #IMDB is just a file from a long time ago.
 
-#Checkpoint 5 is for my final project. I asked Aliya three interpretation questions. The related dataset is cleanmath.
+#Checkpoint 5 is for my final project. The related dataset is cleanmath.
 #The cleanmath variables are described in "HSLS variables" doc.
